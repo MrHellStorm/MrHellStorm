@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hello, I'm Chittatosh!
 
-<!--
-**MrHellStorm/MrHellStorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing my **Master's in Cyber Security** at **Deakin University** 🌱. 
+I completed my **Bachelor's in Computer Science** from **Fergusson College, Pune**, which laid the foundation for my passion for technology and security.
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- **Communities & Competitions Enthusiast**: I love participating in various tech communities and competitions, as they are a great way to learn and network.
+- **Professional Experience**: My skills are rooted in:
+                                                          - **Process Management**
+                                                          - **Team Management**
+                                                          - **International Business Process Management**
+                                                          - **Customer Satisfaction (CSAT)** 
+### 🎓 Current Engagements 🔭 
+- **Cyber Security Management** studies at Deakin, where I'm deepening my knowledge in network security, threat intelligence, and risk management.
+- Working on my **Capstone Project with Chameleon (MOP)**, focusing on innovative cybersecurity solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/chittatosh-patil)
